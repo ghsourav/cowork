@@ -1,0 +1,11 @@
+{
+  "name": "cowork-space",
+  "version": "1.0.0",
+  "description": "Take your business everywhere with a virtual office",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ghsourav",
+  "license": "ISC"
+}
